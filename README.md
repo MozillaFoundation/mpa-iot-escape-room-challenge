@@ -146,10 +146,7 @@ Before you submit your issue, pick a label or two for it. You can choose one fro
 
 We have challenge labels for:
 
-- cryptomancer-challenge (gold).
-- game-jam-challenge (purple).
 - iot-escape-room-challenge (green).
-- offline-game-challenge (orange)
 
 We also have labels for site-related news, as well as for finding help and answering questions:
 
