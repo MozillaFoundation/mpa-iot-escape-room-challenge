@@ -1,6 +1,6 @@
 # IoT Escape Room Challenge
 
-!(A line-drawing icon showing a wifi signal coming from a lock](images/iot-escape-room-2.png)
+![A line-drawing icon showing a wifi signal coming from a lock](images/iot-escape-room-2.png)
 
 **Challenge Leads:** Chad Sansing (@chadsansing), Martin Skelly (@mskelly), Michelle Thorne (@thornet)
 
